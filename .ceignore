@@ -1,0 +1,7 @@
+.git
+.gitignore
+node_modules
+README.md
+*.zip
+*.tar.gz
+*.log
